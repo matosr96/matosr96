@@ -4,7 +4,7 @@
 
 ## :zap: Find mi around the web :bust_in_silhouette: :
 - :school_satchel:  Platzi academy student : [Platzi](https://platzi.com/).
-- :speech_balloon: Talking and sharing in : [Titter](https://twitter.com/ElMatos96)
+- :speech_balloon: Talking and sharing in : [Twitter](https://twitter.com/ElMatos96)
 
 ## Something about me
 
