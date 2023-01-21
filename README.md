@@ -8,7 +8,7 @@
 
 ## Something about me
 
-I am a web developer, I am starting my experience in the world of programming as a frontend in Real Vision Enterprise [RVE](https://www.realvisionenterprise.com/), I love creating intuitive, simple, aesthetic and 100% functional sites
+I am a full-stack developer with experience in working with React and TypeScript on the front-end, and Node.js, TypeScript, and Fastify on the back-end. I primarily use MongoDB as my database, but I also have experience with MySQL. I am a systems technician and software engineering student. I am from Colombia and currently serve as a Teach Lead at Real Vision Enterprise. My goal is to continue developing my skills and experience in the technology field to provide high-quality solutions for my clients
 
 
 - 🔭 I’m currently working on [RVE](https://www.realvisionenterprise.com/)
