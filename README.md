@@ -2,10 +2,6 @@
 
 ![wll](https://user-images.githubusercontent.com/94972642/174076406-eb96de6d-4796-4a8c-8e8c-98dd14017c9c.jpg)
 
-## :zap: Find mi around the web :bust_in_silhouette: :
-- :school_satchel:  Platzi academy student : [Platzi](https://platzi.com/).
-- :speech_balloon: Talking and sharing in : [Twitter](https://twitter.com/ElMatos96)
-
 ## Something about me
 
 I am a full-stack developer with experience in working with React and TypeScript on the front-end, and Node.js, TypeScript, and Fastify on the back-end. I primarily use MongoDB as my database, but I also have experience with MySQL. I am a systems technician and software engineering student. I am from Colombia and currently serve as a Teach Lead at Real Vision Enterprise. My goal is to continue developing my skills and experience in the technology field to provide high-quality solutions for my clients
