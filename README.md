@@ -42,6 +42,7 @@ I am a full-stack developer with experience in working with React and TypeScript
 
 ### Other tools:
 - npm
+- pnpm
 
 ## Some of my stats are:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matosr96)](https://github.com/matosr96/github-readme-stats)
