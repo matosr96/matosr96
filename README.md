@@ -29,11 +29,6 @@ I am a full-stack developer with expertise in React, Node.js, and TypeScript. I 
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Featured Projects
-
-- [Project 1](https://github.com/yourusername/project1) - A brief description of the project.
-- [Project 2](https://github.com/yourusername/project2) - A brief description of the project.
-
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matosr96&show_icons=true&theme=radical)
