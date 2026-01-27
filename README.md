@@ -1,21 +1,35 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/94972642/174076406-eb96de6d-4796-4a8c-8e8c-98dd14017c9c.jpg" alt="Edgar's Profile" width="200" style="border-radius: 50%;">
+  <img src="https://user-images.githubusercontent.com/94972642/174076406-eb96de6d-4796-4a8c-8e8c-98dd14017c9c.jpg" alt="Edgar's Profile" width="200" style="border-radius: 50%; border: 4px solid #007ACC;">
   
   # 👋 ¡Hola! Soy Edgar Alexander Matos Rivera
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+Specialist;Frontend+Enthusiast" alt="Typing SVG" />
+  </a>
   
-  ### 🚀 Desarrollador Full-Stack & Estudiante de Ingeniería de Software
+  ### 🚀 Transformando ideas en soluciones digitales robustas
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-alexander-matos-rivera/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgar.matos@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matosr96)
-  [![Universidad de Cartagena](https://img.shields.io/badge/Universidad%20de%20Cartagena-Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.unicartagena.edu.co/)
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/edgar-alexander-matos-rivera/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:edgar.matos@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/matosr96" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.unicartagena.edu.co/" target="_blank">
+      <img src="https://img.shields.io/badge/Universidad%20de%20Cartagena-Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Universidad" />
+    </a>
+  </div>
 </div>
 
 ---
 
 ## 🎯 Sobre Mí
 
-Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más de **3 años de experiencia** en programación, especializado en el desarrollo de aplicaciones web, backend y móviles. Actualmente soy **Técnico en Sistemas** y estudio **Ingeniería de Software** en la Universidad de Cartagena, lo que me permite combinar una sólida base técnica con una formación académica en constante evolución.
+Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más de **4 años de experiencia** en programación, especializado en el desarrollo de aplicaciones web, backend y móviles. Actualmente soy **Técnico en Sistemas** y estudio **Ingeniería de Software** en la Universidad de Cartagena, lo que me permite combinar una sólida base técnica con una formación académica en constante evolución.
 
 ### 🎯 Lo que me motiva:
 - 🏗️ **Desarrollo Full-Stack**: Crear aplicaciones funcionales, escalables y bien estructuradas
@@ -33,73 +47,117 @@ Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más d
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend Development
+### 💻 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend Development
+### ⚙️ Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
-### Bases de Datos
+### 🗄️ Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Mobile Development
+### 📱 Mobile & Cloud
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Herramientas de Desarrollo
+### 🛠️ Herramientas & Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🏆 Experiencia Profesional
 
-### 💼 Trabajo Actual
-- 🎯 **Desarrollador Full-Stack** en **Peta Consulting** (Chile - Remoto)
-- 🚀 **Programador Full-Stack** en **Orienta** - Plataforma de orientación vocacional con IA
-- 🏗️ **Miembro del Grupo de Investigación** en Ingeniería de Software - Universidad de Cartagena
+### 🏫 Universidad de Cartagena - Colombia
+**Miembro del Grupo de Investigación en Ingeniería de Software**
+*mar. 2024 - actualidad · Cereté, Córdoba, Colombia*
+- 💻 **Investigación y Desarrollo**: Colaboración en proyectos de software con enfoque web.
+- 🚀 **Innovación**: Aplicación de nuevas tecnologías para optimizar procesos de desarrollo.
+- 🎓 **Trabajo de Grado**: Liderazgo en proyectos base para investigación académica.
 
-### 📈 Experiencia Anterior
-- 🏢 **Real Vision Enterprise** - Desarrollador Full-Stack (2 años 9 meses)
-- 🏢 **Impulsala Marketing** - Desarrollador Backend (5 meses)
-- 🎓 **Técnico en Sistemas** - Tecnológico San Agustín (2018-2020)
+### 🧠 Orienta
+**Programador Full Stack**
+*nov. 2024 - ago. 2025 · Bogotá, D.C. (Remoto)*
+- 🛠️ **Plataforma AI**: Desarrollo integral de **Orienta**, sistema de orientación vocacional con IA.
+- 🏗️ **Arquitectura Completa**: Responsable del Backend y Frontend.
+- 📊 **Algoritmos**: Integración de pruebas psicométricas y motores de recomendación.
+- 🕷️ **Data Scrapping**: Automatización de obtención de datos de universidades y carreras.
+- ⚡ **Optimización**: Mejora continua del MVP y nuevas features.
 
-### 🎓 Formación Académica
-- 🎓 **Ingeniería de Software** - Universidad de Cartagena (2022-2027) - 6° Semestre
-- 🏆 **AWS Academy Graduate** - Cloud Foundations (2024)
-- 🏆 **Congreso C4I-2024** - Universidad de Cartagena (2024)
+### 🏢 Peta Consulting
+**Desarrollador Full Stack**
+*oct. 2024 - ago. 2025 · Chile (Remoto)*
+- 💻 Desarrollo de aplicaciones web modernas utilizando **Next.js** y **React.js**.
+
+### � Real Vision Enterprise
+**Desarrollador Full Stack**
+*dic. 2021 - ago. 2024 · Medellín, Colombia (Remoto)*
+- 📈 **Promoción**: Evolución de Front-end a Full-stack Developer.
+- 📱 **Mobile & Cloud**: Desarrollo de Apps Móviles y administración de servidores **AWS**.
+- 👥 **Liderazgo**: Supervisión de proyectos y coordinación de equipo técnico.
+
+### 🚀 Impulsala Marketing
+**Desarrollador Backend**
+*jul. 2023 - nov. 2023 · Medellín, Colombia (Remoto)*
+- ⚙️ **Backend Engineering**: Desarrollo con **Node.js**, **Spring Boot**, **MongoDB** y **MySQL**.
+- 🎯 **Soluciones**: Creación de sistemas robustos y eficientes.
+
+---
+
+## 🎓 Formación Académica
+
+### � Universidad de Cartagena - Colombia
+**Ingeniería de Software**
+*ago. 2022 - ago. 2027*
+- 📚 **Estado**: Estudiante de **8° Semestre**
+- 🛠️ **Enfoque**: Arquitectura de Software, Java, JavaScript.
+
+### 🏫 Tecnológico San Agustín
+**Técnico Laboral en Sistemas y Redes**
+*ene. 2018 - nov. 2020*
+- 🎓 Formación técnica en infraestructura y soporte.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matosr96&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=matosr96&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosr96&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matosr96&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=matosr96&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosr96&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" height="150" />
+  </div>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matosr96&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matosr96&theme=react-dark" alt="Activity Graph" />
 </div>
 
 ---
@@ -107,24 +165,19 @@ Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más d
 ## 🚀 Proyectos Destacados
 
 ### 💼 Proyectos Empresariales
-- **🎯 Orienta** - Plataforma de orientación vocacional basada en IA
-  - Integración de pruebas psicométricas y algoritmos de recomendación
-  - Scrapping para información actualizada de universidades y carreras
-  - Arquitectura completa backend y frontend
-  
-- **🏢 SISVENTAS** - Sistema de gestión de ventas y stock
-  - Sistema de facturación con seguimiento de productos
-  - Gestión de stock integrada
-  - Tecnologías: Spring Boot, Java, MySQL
 
-- **💰 Finanzea Backend** - API para gestión financiera personal
-  - API RESTful para administrar finanzas de usuarios
-  - Integración con bases de datos PostgreSQL y MongoDB
+| Proyecto | Descripción | Stack |
+|:---:|:---|:---|
+| **🎯 Orienta** | Plataforma de orientación vocacional basada en IA. Integra pruebas psicométricas y algoritmos de recomendación. | `Next.js` `Python` `AI` `AWS` |
+| **🏢 SISVENTAS** | Sistema de gestión de ventas y stock con facturación y seguimiento de productos. | `Java` `Spring Boot` `MySQL` |
+| **💰 Finanzea** | API RESTful para gestión financiera personal con integración a múltiples bases de datos. | `Node.js` `PostgreSQL` `MongoDB` |
 
 ### 🎓 Proyectos Académicos
-- **🔬 Investigación en Ingeniería de Software** - Universidad de Cartagena
-- **📊 Proyectos de Desarrollo Web** - Enfoque en aplicaciones modernas
-- **🏗️ Arquitectura de Software** - Soluciones escalables y robustas
+
+| Proyecto | Descripción |
+|:---:|:---|
+| **🔬 Investigación Desarrollo Web** | Colaboración en proyectos de investigación enfocados en la optimización de procesos mediante software web. |
+| **🏗️ Arquitectura Escalable** | Diseño e implementación de arquitecturas de software robustas para entornos empresariales. |
 
 ---
 
