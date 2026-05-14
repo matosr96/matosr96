@@ -1,35 +1,35 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/94972642/174076406-eb96de6d-4796-4a8c-8e8c-98dd14017c9c.jpg" alt="Edgar's Profile" width="200" style="border-radius: 50%; border: 4px solid #007ACC;">
-  
+  <img src="https://user-images.githubusercontent.com/94972642/174076406-eb96de6d-4796-4a8c-8e8c-98dd14017c9c.jpg" alt="Edgar's Profile" width="200">
+
   # 👋 ¡Hola! Soy Edgar Alexander Matos Rivera
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+Specialist;Frontend+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+Specialist;Frontend+Enthusiast" alt="Typing SVG" />
   </a>
-  
+
   ### 🚀 Transformando ideas en soluciones digitales robustas
-  
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+
+  <p>
     <a href="https://www.linkedin.com/in/edgar-alexander-matos-rivera/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:edgar.matos@example.com">
+    <a href="mailto:19matos96@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/matosr96" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://www.unicartagena.edu.co/" target="_blank">
-      <img src="https://img.shields.io/badge/Universidad%20de%20Cartagena-Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Universidad" />
+      <img src="https://img.shields.io/badge/Universidad%20de%20Cartagena-Student-blue?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Universidad" />
     </a>
-  </div>
+  </p>
 </div>
 
 ---
 
 ## 🎯 Sobre Mí
 
-Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más de **4 años de experiencia** en programación, especializado en el desarrollo de aplicaciones web, backend y móviles. Actualmente soy **Técnico en Sistemas** y estudio **Ingeniería de Software** en la Universidad de Cartagena, lo que me permite combinar una sólida base técnica con una formación académica en constante evolución.
+Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más de **4 años de experiencia** construyendo aplicaciones web, backend y móviles. Soy **Técnico Laboral en Sistemas y Redes** y curso **Ingeniería de Software** en la Universidad de Cartagena, combinando una sólida base técnica con formación académica en constante evolución.
 
 ### 🎯 Lo que me motiva:
 - 🏗️ **Desarrollo Full-Stack**: Crear aplicaciones funcionales, escalables y bien estructuradas
@@ -108,7 +108,7 @@ Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más d
 *oct. 2024 - ago. 2025 · Chile (Remoto)*
 - 💻 Desarrollo de aplicaciones web modernas utilizando **Next.js** y **React.js**.
 
-### � Real Vision Enterprise
+### 🏢 Real Vision Enterprise
 **Desarrollador Full Stack**
 *dic. 2021 - ago. 2024 · Medellín, Colombia (Remoto)*
 - 📈 **Promoción**: Evolución de Front-end a Full-stack Developer.
@@ -125,7 +125,7 @@ Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más d
 
 ## 🎓 Formación Académica
 
-### � Universidad de Cartagena - Colombia
+### 🎓 Universidad de Cartagena - Colombia
 **Ingeniería de Software**
 *ago. 2022 - ago. 2027*
 - 📚 **Estado**: Estudiante de **8° Semestre**
@@ -146,14 +146,14 @@ Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más d
   
   <br/>
   
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=matosr96&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosr96&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" height="150" />
-  </div>
+  </p>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matosr96&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=matosr96&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
   
   <br/>
   
@@ -186,7 +186,7 @@ Soy **Edgar Alexander Matos Rivera**, un **Desarrollador Full-Stack** con más d
 Me encanta trabajar en proyectos desafiantes y colaborar con otros desarrolladores. Si tienes una idea interesante o quieres discutir tecnología, ¡no dudes en contactarme!
 
 ### 📬 Cómo contactarme:
-- 📧 **Email**: [edgar.matos@example.com](mailto:edgar.matos@example.com)
+- 📧 **Email**: [19matos96@gmail.com](mailto:19matos96@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/edgar-alexander-matos-rivera](https://www.linkedin.com/in/edgar-alexander-matos-rivera/)
 - 🐙 **GitHub**: [github.com/matosr96](https://github.com/matosr96)
 - 🎓 **Universidad**: Universidad de Cartagena - Colombia
@@ -202,5 +202,5 @@ Me encanta trabajar en proyectos desafiantes y colaborar con otros desarrollador
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=matosr96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  **"La tecnología es mejor cuando acerca a las personas"** - Steve Jobs
+  **"La tecnología es mejor cuando acerca a las personas"** — Matt Mullenweg
 </div>
