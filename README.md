@@ -23,22 +23,28 @@
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Open_to_work-2EA043?style=flat-square" alt="Open to work" />
+    <img src="https://img.shields.io/badge/Based_in-Cereté,_Colombia-555?style=flat-square" alt="Based in Cereté, Colombia" />
+    <img src="https://img.shields.io/badge/Remote-friendly-007ACC?style=flat-square" alt="Remote friendly" />
+  </p>
 </div>
 
 ---
 
 ## About
 
-Full-Stack Software Engineer with **4+ years** of experience designing and shipping web, backend and mobile applications for remote teams across Colombia, Chile and beyond. I focus on writing clean, maintainable code and turning ambiguous business requirements into reliable software.
+Full-Stack Software Engineer with **4+ years** of experience designing and shipping scalable, end-to-end digital products. I combine **React, Next.js, Node.js, Java/Spring Boot, AWS** and **AI integration** to turn ambiguous business needs into reliable software — most recently as **CTO at [Orienta](https://portfolio-black-seven-rust.vercel.app/)**, an AI-powered vocational guidance platform.
 
 Currently completing a **B.Sc. in Software Engineering** at Universidad de Cartagena while contributing to its Software Engineering Research Group.
 
 **What I bring**
 
-- End-to-end ownership of features, from UX to deployment on AWS.
-- Scalable architectures for production-grade web and mobile platforms.
-- API-first thinking across SQL and NoSQL ecosystems.
-- A bias for shipping — pragmatic decisions, measured trade-offs.
+- **360° vision** — leading the full development cycle, from AWS infrastructure (EC2, S3) to fluid web and mobile experiences.
+- **Technical depth** — robust backends with Spring Boot and Node.js, reactive interfaces with React, React Native and Flutter.
+- **Applied innovation** — integrating AI into real products (Orienta) and active academic research.
+- **A bias for shipping** — pragmatic decisions, measured trade-offs.
 
 **Currently exploring**
 
@@ -86,10 +92,10 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 - Lead thesis-grade projects that serve as the foundation for further academic work.
 
 ### Orienta — AI Vocational Guidance Platform
-**Full-Stack Developer** · *Nov 2024 – Aug 2025 · Bogotá, D.C. (Remote)*
+**CTO** · *Nov 2024 – Aug 2025 · Bogotá, D.C. (Remote)*
 
-- Built Orienta end-to-end: an AI-powered platform helping students choose a career path.
-- Owned both backend and frontend architecture for the MVP.
+- Led technical strategy and end-to-end delivery of Orienta, an AI-powered platform helping students choose a career path.
+- Owned the full architecture for the MVP — backend, frontend and infrastructure on AWS (EC2, S3).
 - Integrated psychometric assessments and a recommendation engine for university and programme matching.
 - Automated ingestion of university and programme data through web scraping.
 
