@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/94972642/174076406-eb96de6d-4796-4a8c-8e8c-98dd14017c9c.jpg" alt="Edgar Alexander Matos Rivera" width="180">
+  <img src="https://github.com/matosr96.png" alt="Edgar Alexander Matos Rivera" width="160">
 
   # Edgar Alexander Matos Rivera
 
@@ -10,7 +10,7 @@
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/edgar-alexander-matos-rivera/" target="_blank">
+    <a href="https://www.linkedin.com/in/matosr96/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:19matos96@gmail.com">
@@ -19,6 +19,15 @@
     <a href="https://github.com/matosr96" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://portfolio-black-seven-rust.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Open_to_work-2EA043?style=flat-square" alt="Open to work" />
+    <img src="https://img.shields.io/badge/Based_in-Cereté,_Colombia-555?style=flat-square" alt="Based in Cereté, Colombia" />
+    <img src="https://img.shields.io/badge/Remote-friendly-007ACC?style=flat-square" alt="Remote friendly" />
   </p>
 </div>
 
@@ -26,16 +35,16 @@
 
 ## About
 
-Full-Stack Software Engineer with **4+ years** of experience designing and shipping web, backend and mobile applications for remote teams across Colombia, Chile and beyond. I focus on writing clean, maintainable code and turning ambiguous business requirements into reliable software.
+Full-Stack Software Engineer with **4+ years** of experience designing and shipping scalable, end-to-end digital products. I combine **React, Next.js, Node.js, Java/Spring Boot, AWS** and **AI integration** to turn ambiguous business needs into reliable software — most recently as **CTO at [Orienta](https://portfolio-black-seven-rust.vercel.app/)**, an AI-powered vocational guidance platform.
 
 Currently completing a **B.Sc. in Software Engineering** at Universidad de Cartagena while contributing to its Software Engineering Research Group.
 
 **What I bring**
 
-- End-to-end ownership of features, from UX to deployment on AWS.
-- Scalable architectures for production-grade web and mobile platforms.
-- API-first thinking across SQL and NoSQL ecosystems.
-- A bias for shipping — pragmatic decisions, measured trade-offs.
+- **360° vision** — leading the full development cycle, from AWS infrastructure (EC2, S3) to fluid web and mobile experiences.
+- **Technical depth** — robust backends with Spring Boot and Node.js, reactive interfaces with React, React Native and Flutter.
+- **Applied innovation** — integrating AI into real products (Orienta) and active academic research.
+- **A bias for shipping** — pragmatic decisions, measured trade-offs.
 
 **Currently exploring**
 
@@ -48,38 +57,28 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 
 ## Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Mobile & Cloud**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Tooling**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend stack" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" alt="Backend stack" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="Database stack" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,aws,docker,linux" alt="Mobile and cloud stack" /></td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tooling stack" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -93,10 +92,10 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 - Lead thesis-grade projects that serve as the foundation for further academic work.
 
 ### Orienta — AI Vocational Guidance Platform
-**Full-Stack Developer** · *Nov 2024 – Aug 2025 · Bogotá, D.C. (Remote)*
+**CTO** · *Nov 2024 – Aug 2025 · Bogotá, D.C. (Remote)*
 
-- Built Orienta end-to-end: an AI-powered platform helping students choose a career path.
-- Owned both backend and frontend architecture for the MVP.
+- Led technical strategy and end-to-end delivery of Orienta, an AI-powered platform helping students choose a career path.
+- Owned the full architecture for the MVP — backend, frontend and infrastructure on AWS (EC2, S3).
 - Integrated psychometric assessments and a recommendation engine for university and programme matching.
 - Automated ingestion of university and programme data through web scraping.
 
@@ -152,11 +151,6 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 
   <br/>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=matosr96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosr96&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="150" />
-  </p>
-
   <img src="https://streak-stats.demolab.com/?user=matosr96&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
@@ -166,8 +160,9 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 
 I'm open to **remote opportunities, freelance engagements and collaborations** on meaningful technical challenges — particularly around AI-driven products, scalable backends and developer-experience tooling.
 
+- **Portfolio** — [portfolio-black-seven-rust.vercel.app](https://portfolio-black-seven-rust.vercel.app/)
 - **Email** — [19matos96@gmail.com](mailto:19matos96@gmail.com)
-- **LinkedIn** — [linkedin.com/in/edgar-alexander-matos-rivera](https://www.linkedin.com/in/edgar-alexander-matos-rivera/)
+- **LinkedIn** — [linkedin.com/in/matosr96](https://www.linkedin.com/in/matosr96/)
 - **GitHub** — [github.com/matosr96](https://github.com/matosr96)
 
 <div align="center">
