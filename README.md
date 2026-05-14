@@ -10,7 +10,7 @@
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/edgar-alexander-matos-rivera/" target="_blank">
+    <a href="https://www.linkedin.com/in/matosr96/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:19matos96@gmail.com">
@@ -152,7 +152,7 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 I'm open to **remote opportunities, freelance engagements and collaborations** on meaningful technical challenges — particularly around AI-driven products, scalable backends and developer-experience tooling.
 
 - **Email** — [19matos96@gmail.com](mailto:19matos96@gmail.com)
-- **LinkedIn** — [linkedin.com/in/edgar-alexander-matos-rivera](https://www.linkedin.com/in/edgar-alexander-matos-rivera/)
+- **LinkedIn** — [linkedin.com/in/matosr96](https://www.linkedin.com/in/matosr96/)
 - **GitHub** — [github.com/matosr96](https://github.com/matosr96)
 
 <div align="center">
