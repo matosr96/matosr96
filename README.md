@@ -19,6 +19,9 @@
     <a href="https://github.com/matosr96" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://portfolio-black-seven-rust.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
 </div>
 
@@ -151,6 +154,7 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 
 I'm open to **remote opportunities, freelance engagements and collaborations** on meaningful technical challenges — particularly around AI-driven products, scalable backends and developer-experience tooling.
 
+- **Portfolio** — [portfolio-black-seven-rust.vercel.app](https://portfolio-black-seven-rust.vercel.app/)
 - **Email** — [19matos96@gmail.com](mailto:19matos96@gmail.com)
 - **LinkedIn** — [linkedin.com/in/matosr96](https://www.linkedin.com/in/matosr96/)
 - **GitHub** — [github.com/matosr96](https://github.com/matosr96)
