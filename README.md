@@ -55,7 +55,7 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastify,php" alt="Backend stack" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" alt="Backend stack" /></td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
