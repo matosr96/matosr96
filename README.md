@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/94972642/174076406-eb96de6d-4796-4a8c-8e8c-98dd14017c9c.jpg" alt="Edgar Alexander Matos Rivera" width="180">
+  <img src="https://github.com/matosr96.png" alt="Edgar Alexander Matos Rivera" width="160">
 
   # Edgar Alexander Matos Rivera
 
@@ -151,11 +151,6 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
   <img src="https://github-profile-trophy.vercel.app/?username=matosr96&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
   <br/>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=matosr96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosr96&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="150" />
-  </p>
 
   <img src="https://streak-stats.demolab.com/?user=matosr96&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
