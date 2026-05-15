@@ -136,11 +136,34 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Orienta** | AI-powered vocational guidance platform combining psychometric testing with a recommendation engine. | `Next.js` · `Python` · `AI` · `AWS` |
-| **SISVENTAS** | Sales and inventory management system with invoicing and product tracking. | `Java` · `Spring Boot` · `MySQL` |
-| **Finanzea** | RESTful API for personal financial management, integrated with multiple data stores. | `Node.js` · `PostgreSQL` · `MongoDB` |
+### Orienta &nbsp;·&nbsp; *EdTech platform with AI for vocational guidance*
+
+**The problem.** Thousands of students in Latin America choose a career without clear information — shifting programmes, opaque requirements and costs, and no systematic method to understand their own aptitudes.
+
+**The solution.** Orienta combines digital psychometric tests, an AI-powered recommendation engine, and continuous scraping of universities to deliver personalised academic paths. I designed and maintain the full architecture as **CTO**: backend, frontend and infrastructure.
+
+- Psychometric tests with instant results
+- AI-driven career and university recommendations
+- Continuous scraping — programme catalogue always up-to-date
+- Progress dashboard and virtual guidance
+
+**Stack** &nbsp;·&nbsp; `React` · `TypeScript` · `Node.js` · `MongoDB` · `AWS (EC2, S3)` · `OpenAI`
+
+---
+
+### Aplyra &nbsp;·&nbsp; *ATS-optimised CV generator and analyser, powered by AI*
+
+TypeScript monorepo with strict hexagonal architecture (ESLint-enforced), two swappable AI providers (OpenAI / Gemini) behind 4 ports, an anti-hallucination guard that rejects CVs with invented facts (HTTP 422), and a Jaccard + SHA-256 similarity cache that avoids re-prompting the model. **243 tests** across unit, integration (real Mongo, real Puppeteer) and e2e.
+
+**Stack** &nbsp;·&nbsp; `Turborepo` · `Fastify` · `MongoDB` · `OpenAI` / `Gemini` · `Hexagonal Architecture`
+
+---
+
+### CleanMyOwn &nbsp;·&nbsp; *Native macOS cleanup and maintenance app*
+
+Built in SwiftUI. Junk scanning across 11 categories, orphan detection by bundle ID, a 3-step duplicate pipeline (size → 1MB hash → SHA-256), persistent admin session via Authorization Services, and memory reads through Mach syscalls (`host_statistics64`). No Electron, no daemons, no telemetry.
+
+**Stack** &nbsp;·&nbsp; `Swift 6` · `SwiftUI` · `macOS` · `System Internals`
 
 ---
 
