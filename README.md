@@ -92,7 +92,7 @@ Currently completing a **B.Sc. in Software Engineering** at Universidad de Carta
 - Lead thesis-grade projects that serve as the foundation for further academic work.
 
 ### Orienta — AI Vocational Guidance Platform
-**CTO** · *Nov 2024 – Aug 2025 · Bogotá, D.C. (Remote)*
+**CTO** · *Nov 2024 – Present · Bogotá, D.C. (Remote)*
 
 - Led technical strategy and end-to-end delivery of Orienta, an AI-powered platform helping students choose a career path.
 - Owned the full architecture for the MVP — backend, frontend and infrastructure on AWS (EC2, S3).
