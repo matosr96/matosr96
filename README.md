@@ -35,6 +35,10 @@
 
 I'm from the Colombian Caribbean — Córdoba, near Montería. I've been doing software professionally for **4+ years**: I started as a front-end developer at Real Vision Enterprise and grew into full-stack building for very different clients. In 2024 I joined **[Orienta](https://www.edgarmatos.dev/work/orienta)** as a Full-Stack Developer and, in parallel, **Peta Consulting** from Chile on larger-scale projects — that combination taught me to move between the voice of a small team and that of a big one.
 
+Today I work as a product engineer in the literal sense: for the same product I ship the **native iOS app** (Swift/SwiftUI), the **native Android app** (Kotlin), the **API** and the **admin backoffice** — four codebases, one product, maintained in parallel.
+
+Most of what I've built over the last two years is private client work. What you see pinned below is the part I own outright: an AI CV engine, a native macOS cleaner, and a macOS archive extractor.
+
 I study **Software Engineering** at Universidad de Cartagena (9th semester) and belong to its Software Engineering Research Group.
 
 **How I work**
