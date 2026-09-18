@@ -163,11 +163,13 @@ TypeScript monorepo with strict hexagonal architecture (ESLint-enforced), two sw
 
 ---
 
-### [CleanMyOwn](https://www.edgarmatos.dev/work/cleanmyown) &nbsp;·&nbsp; *Native macOS cleanup and maintenance app* &nbsp;·&nbsp; `in progress`
+### [CleanMyOwn](https://www.edgarmatos.dev/work/cleanmyown) &nbsp;·&nbsp; *Native macOS cleanup and maintenance app*
 
 Built in SwiftUI. Junk scanning across 11 categories, orphan detection by bundle ID, a 3-step duplicate pipeline (size → 1MB hash → SHA-256), persistent admin session via Authorization Services, and memory reads through Mach syscalls (`host_statistics64`). No Electron, no daemons, no telemetry.
 
 **Stack** &nbsp;·&nbsp; `Swift 6` · `SwiftUI` · `macOS` · `System Internals`
+
+[Case study](https://www.edgarmatos.dev/work/cleanmyown) &nbsp;·&nbsp; [Source](https://github.com/matosr96/CleanMyOwn)
 
 ---
 
