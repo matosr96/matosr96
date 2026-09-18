@@ -169,7 +169,7 @@ Built in SwiftUI. Junk scanning across 11 categories, orphan detection by bundle
 
 **Stack** &nbsp;·&nbsp; `Swift 6` · `SwiftUI` · `macOS` · `System Internals`
 
-[Case study](https://www.edgarmatos.dev/work/cleanmyown) &nbsp;·&nbsp; [Source](https://github.com/matosr96/CleanMyOwn)
+[Case study](https://www.edgarmatos.dev/work/cleanmyown) &nbsp;·&nbsp; [Source](https://github.com/matosr96/CleanMyOwn) &nbsp;·&nbsp; [Download 1.0](https://github.com/matosr96/CleanMyOwn/releases/tag/v1.0) <sub>(macOS 14+, Apple Silicon)</sub>
 
 ---
 
