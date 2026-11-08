@@ -1,211 +1,68 @@
-<div align="center">
-  <a href="https://www.edgarmatos.dev/">
-    <img src="assets/banner.png" alt="Edgar Matos — Full-Stack Developer · Software Engineer. TypeScript, Swift, Kotlin, AWS, AI. edgarmatos.dev" width="100%">
-  </a>
+<a href="https://www.edgarmatos.dev/">
+  <img src="assets/banner.png" alt="Edgar Matos — Full-Stack Developer · Software Engineer. TypeScript, Swift, Kotlin, AWS, AI. edgarmatos.dev" width="100%">
+</a>
 
-  <p><b>Building reliable web, backend and mobile products — end to end.</b></p>
+<p align="center">
+  <a href="https://www.edgarmatos.dev/">edgarmatos.dev</a> &nbsp;·&nbsp;
+  <a href="https://www.edgarmatos.dev/cv.pdf">CV</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/matosr96/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:19matos96@gmail.com">19matos96@gmail.com</a>
+</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/matosr96/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:19matos96@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/matosr96">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.edgarmatos.dev/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Open_to_work-2EA043?style=flat-square" alt="Open to work" />
-    <img src="https://img.shields.io/badge/Based_in-Montería,_Colombia-555?style=flat-square" alt="Based in Montería, Colombia" />
-    <img src="https://img.shields.io/badge/Remote-friendly-007ACC?style=flat-square" alt="Remote friendly" />
-  </p>
-</div>
+<p align="center"><sub>OPEN TO REMOTE WORK &nbsp;·&nbsp; MONTERÍA, COLOMBIA &nbsp;·&nbsp; UTC−5</sub></p>
 
 ---
 
-## About
+### About
 
-I'm from the Colombian Caribbean — Córdoba, near Montería. I've been doing software professionally for **4+ years**: I started as a front-end developer at Nevobit S.A.S and grew into full-stack building for very different clients. In 2024 I joined **[Orienta](https://www.edgarmatos.dev/work/orienta)** as a Full-Stack Developer and, in parallel, **Peta Consulting** from Chile on larger-scale projects — that combination taught me to move between the voice of a small team and that of a big one.
+Full-stack developer from the Colombian Caribbean with **4+ years** shipping production software end to end. I cover a product's whole surface: TypeScript APIs, React front ends, native **iOS** (Swift/SwiftUI) and **Android** (Kotlin) apps, and event-driven AWS infrastructure.
 
-At Orienta I worked as a product engineer in the literal sense: for the same product I shipped the **native iOS app** (Swift/SwiftUI), the **native Android app** (Kotlin), the **API** and the **admin backoffice** — four codebases, one product, maintained in parallel, until October 2026.
+Until October 2026 I was the sole engineer at [Orienta](https://www.edgarmatos.dev/work/orienta) — four codebases, one product: iOS, Android, API and backoffice, maintained in parallel. I'm finishing **Software Engineering** at Universidad de Cartagena (9th semester).
 
-Most of what I've built over the last two years is private client work. What you see below is the part I own outright: an Android app live on Google Play, an AI CV engine and a native macOS cleaner.
-
-I study **Software Engineering** at Universidad de Cartagena (9th semester) and belong to its Software Engineering Research Group.
-
-**How I work**
-
-- **Fewer things, done better** — software quality depends above all on decision quality: what to build, what not to build, and when to stop.
-- **Close to the product** — what matters most to me is being near decisions that count, not writing clean code for something nobody will use.
-- **Details are the work** — microcopy, spacing, animation. People notice even when they can't say why.
-- **People over technologies** — tools change every three years; good teams stay with you a whole career.
-
-**What I'm learning right now**
-
-- Swift 6 and macOS internals, while building CleanMyOwn.
-- Serious testing against real services — no mocks that lie.
-- Event-driven architecture on AWS (ECS Fargate + SQS).
-- Writing better.
+Fewer things, done better. Close to the product. Details are the work.
 
 ---
 
-## Tech Stack
+### Stack
 
-> What I use today — not an accumulated skill list.
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,java,swift,kotlin" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" alt="Frontend stack" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" alt="Backend stack" /> <sub>· Fastify</sub></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database stack" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=swift,kotlin,androidstudio,flutter,react" alt="Mobile stack" /> <sub>· SwiftUI · Jetpack Compose · React Native</sub></td>
-  </tr>
-  <tr>
-    <td><b>Cloud &amp; AI</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,vercel" alt="Cloud stack" /> <sub>· ECS Fargate · SQS · SES · OpenAI · Gemini</sub></td>
-  </tr>
-  <tr>
-    <td><b>Tooling</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tooling stack" /> <sub>· Turborepo · Puppeteer</sub></td>
-  </tr>
-</table>
+```text
+languages   TypeScript · JavaScript · Swift · Kotlin · Java · SQL
+backend     Node.js · Fastify · Express · Spring Boot · REST · JWT
+frontend    React · Next.js · Vite · Tailwind CSS · Astro
+mobile      SwiftUI · Jetpack Compose · React Native · Flutter
+data        MongoDB Atlas · PostgreSQL · MySQL · Room
+cloud       AWS (ECS Fargate · SQS · SES · EC2 · S3) · Docker · Vercel
+ai          OpenAI · Gemini — provider fallback, hallucination guards
+practice    Hexagonal architecture · event-driven design · tests against real services
+```
 
 ---
 
-## Experience
+### Selected work
 
-### Orienta — AI Vocational Guidance Platform
-**Full-Stack Developer** · *Nov 2024 – Oct 2026 · Bogotá, D.C. (Remote)*
+**[Plazo](https://www.edgarmatos.dev/work/plazo)** — Android app that warns you before every deadline on any Moodle platform. Live on [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo).
+<br><sub>Kotlin · Jetpack Compose · Room · Ktor · local exact alarms, no server &nbsp;—&nbsp; source is private</sub>
 
-- Designed and delivered Orienta end-to-end — an AI-powered platform helping students choose a career path.
-- Built the MVP across backend, frontend and event-driven AWS infrastructure that only spends compute on demand.
-- Built and maintained the product's native iOS app (Swift/SwiftUI) and native Android app (Kotlin) alongside its API and backoffice.
-- Implemented psychometric assessments and a recommendation engine for university and programme matching.
-- Automated ingestion of university and programme data through web scraping.
+**[Orienta](https://www.edgarmatos.dev/work/orienta)** — AI vocational guidance platform: psychometric tests, recommendations, continuous university scraping.
+<br><sub>TypeScript · Fastify · MongoDB · AWS SQS + Fargate · OpenAI / Gemini · SwiftUI · Kotlin</sub>
 
-### Peta Consulting
-**Full-Stack Developer** · *Oct 2024 – Aug 2025 · Chile (Remote)*
+**[Aplyra](https://github.com/matosr96/Aplyra)** — ATS-optimised CV generator with an anti-hallucination guard and a similarity cache. 243 tests against real services.
+<br><sub>Turborepo · Fastify · MongoDB · hexagonal architecture enforced by ESLint</sub>
 
-- Developed modern web applications with Next.js and React for international clients.
+**[CleanMyOwn](https://github.com/matosr96/CleanMyOwn)** — Native macOS cleaner. Mach syscalls, Authorization Services, 3-step duplicate detection. No Electron, no telemetry. [Download 1.0](https://github.com/matosr96/CleanMyOwn/releases/tag/v1.0)
+<br><sub>Swift 6 · SwiftUI · macOS internals</sub>
 
-### Impulsala Marketing
-**Backend Developer** · *Jul 2023 – Nov 2023 · Medellín, Colombia (Freelance)*
-
-- Built backend services with Node.js, Spring Boot, MongoDB and MySQL.
-- Delivered integrations powering internal marketing automation workflows.
-
-### Nevobit S.A.S
-**Full-Stack Developer** · *Dec 2021 – Oct 2024 · Medellín, Colombia (Remote)*
-
-- Promoted from Front-end to Full-Stack Developer based on consistent delivery.
-- Designed and shipped cross-platform mobile applications.
-- Administered production cloud infrastructure on AWS.
-- Supervised projects and coordinated a small engineering team.
+Each one is written up as an essay on [my site](https://www.edgarmatos.dev/work): the problem, what I decided, what didn't work.
 
 ---
 
-## Education
+### Experience
 
-### Universidad de Cartagena
-**B.Sc. in Software Engineering** · *Aug 2022 – Aug 2027*
+```text
+2024 — 2026   Orienta               Full-Stack Developer · sole engineer   remote
+2024 — 2025   Peta Consulting       Full-Stack Developer                   remote, Chile
+2023          Impulsala Marketing   Backend Developer                      freelance
+2021 — 2024   Nevobit S.A.S         Front-end → Full-Stack Developer       remote
+```
 
-- 9th semester. Focus on software architecture, Java and JavaScript ecosystems.
-- Member of the Software Engineering Research Group — academic research on web-based software optimisation, plus thesis-grade projects that seed further work.
-
-### Tecnológico San Agustín
-**Technician in Systems and Networks** · *Jan 2018 – Nov 2020*
-
-- Foundational training in IT infrastructure and technical support.
-
----
-
-## Featured Projects
-
-### [Orienta](https://www.edgarmatos.dev/work/orienta) &nbsp;·&nbsp; *EdTech platform with AI for vocational guidance*
-
-**The problem.** Thousands of students in Latin America choose a career without clear information — shifting programmes, opaque requirements and costs, and no systematic method to understand their own aptitudes.
-
-**The solution.** Orienta combines digital psychometric tests, an AI-powered recommendation engine, and continuous scraping of universities to deliver personalised academic paths. I designed and maintained the full architecture — backend, frontend and infrastructure — from November 2024 to October 2026.
-
-- Psychometric tests with instant results
-- AI-driven career and university recommendations
-- Continuous scraping — programme catalogue always up-to-date
-- Progress dashboard and virtual guidance
-
-**Stack** &nbsp;·&nbsp; `TypeScript` · `Fastify` · `MongoDB` · `AWS` · `OpenAI` / `Gemini`
-
----
-
-### [Plazo](https://www.edgarmatos.dev/work/plazo) &nbsp;·&nbsp; *Native Android app for Moodle deadlines — live on Google Play*
-
-A Jetpack Compose client for any Moodle platform — it started with SIMA, my university's Moodle: tasks grouped by urgency, grades, a monthly calendar, and local exact alarms before every deadline — no server needed to notify. Keystore-encrypted credentials with silent token renewal, Room for offline-first reads, plus an Astro landing page and an internal admin panel (Fastify + MongoDB + React) that ran the 12-tester × 14-day closed test Google requires before production.
-
-**Stack** &nbsp;·&nbsp; `Kotlin` · `Jetpack Compose` · `Room` · `Ktor` · `Fastify` · `MongoDB` · `React`
-
-[Case study](https://www.edgarmatos.dev/work/plazo) &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo) <sub>(Android 8.0+ · source is private)</sub>
-
----
-
-### [Aplyra](https://www.edgarmatos.dev/work/aplyra) &nbsp;·&nbsp; *ATS-optimised CV generator and analyser, powered by AI*
-
-TypeScript monorepo with strict hexagonal architecture (ESLint-enforced), two swappable AI providers (OpenAI / Gemini) behind 4 ports, an anti-hallucination guard that rejects CVs with invented facts (HTTP 422), and a Jaccard + SHA-256 similarity cache that avoids re-prompting the model. **243 tests** across unit, integration (real Mongo, real Puppeteer) and e2e.
-
-**Stack** &nbsp;·&nbsp; `Turborepo` · `Fastify` · `MongoDB` · `OpenAI` / `Gemini` · `Hexagonal Architecture`
-
-[Case study](https://www.edgarmatos.dev/work/aplyra) &nbsp;·&nbsp; [Source](https://github.com/matosr96/Aplyra)
-
----
-
-### [CleanMyOwn](https://www.edgarmatos.dev/work/cleanmyown) &nbsp;·&nbsp; *Native macOS cleanup and maintenance app*
-
-Built in SwiftUI. Junk scanning across 11 categories, orphan detection by bundle ID, a 3-step duplicate pipeline (size → 1MB hash → SHA-256), persistent admin session via Authorization Services, and memory reads through Mach syscalls (`host_statistics64`). No Electron, no daemons, no telemetry.
-
-**Stack** &nbsp;·&nbsp; `Swift 6` · `SwiftUI` · `macOS` · `System Internals`
-
-[Case study](https://www.edgarmatos.dev/work/cleanmyown) &nbsp;·&nbsp; [Source](https://github.com/matosr96/CleanMyOwn) &nbsp;·&nbsp; [Download 1.0](https://github.com/matosr96/CleanMyOwn/releases/tag/v1.0) <sub>(macOS 14+, Apple Silicon)</sub>
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=matosr96&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</div>
-
----
-
-## Let's Work Together
-
-I'm open to **remote opportunities, freelance engagements and collaborations** on meaningful technical challenges — particularly around AI-driven products, scalable backends and native macOS tooling.
-
-Each project above is written up as an essay on my site: what the problem was, what I decided, what didn't work.
-
-- **Portfolio** — [edgarmatos.dev](https://www.edgarmatos.dev/) · [CV (PDF)](https://www.edgarmatos.dev/cv.pdf)
-- **Email** — [19matos96@gmail.com](mailto:19matos96@gmail.com)
-- **LinkedIn** — [linkedin.com/in/matosr96](https://www.linkedin.com/in/matosr96/)
-- **GitHub** — [github.com/matosr96](https://github.com/matosr96)
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=matosr96&label=Profile%20views&color=007ACC&style=flat" alt="Profile views" />
-</div>
+<sub>Full history in the <a href="https://www.edgarmatos.dev/cv.pdf">CV</a>.</sub>
