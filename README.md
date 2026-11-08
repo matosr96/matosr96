@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://www.edgarmatos.dev/profile.jpg" alt="Edgar Alexander Matos Rivera" width="160" style="border-radius: 50%">
+  <a href="https://www.edgarmatos.dev/">
+    <img src="assets/banner.png" alt="Edgar Matos — Full-Stack Developer · Software Engineer. TypeScript, Swift, Kotlin, AWS, AI. edgarmatos.dev" width="100%">
+  </a>
 
-  # Edgar Alexander Matos Rivera
-
-  **Full-Stack Software Engineer** — building reliable web, backend and mobile products.
-
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;TypeScript+%2F+Fastify+%2F+React;Event-driven+AWS+%26+AI+integration;Swift+6+%2F+SwiftUI+for+macOS" alt="Roles" />
+  <p><b>Building reliable web, backend and mobile products — end to end.</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/matosr96/">
