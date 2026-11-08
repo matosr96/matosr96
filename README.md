@@ -9,7 +9,7 @@
   <a href="mailto:19matos96@gmail.com">19matos96@gmail.com</a>
 </p>
 
-<p align="center"><sub>OPEN TO REMOTE WORK &nbsp;·&nbsp; MONTERÍA, COLOMBIA &nbsp;·&nbsp; UTC−5</sub></p>
+<p align="center"><sub>OPEN TO REMOTE WORK &nbsp;·&nbsp; CÓRDOBA, COLOMBIA &nbsp;·&nbsp; UTC−5</sub></p>
 
 ---
 
