@@ -15,7 +15,7 @@
 
 ### About
 
-Full-stack developer from the Colombian Caribbean with **4+ years** building production software end to end. I like owning a product's whole surface — the API, the web app, the native **iOS** and **Android** apps and the cloud underneath — so the pieces fit because one mind thought about all of them.
+Full-stack developer with **4+ years** building production software end to end. I like owning a product's whole surface — the API, the web app, the native **iOS** and **Android** apps and the cloud underneath — so the pieces fit because one mind thought about all of them.
 
 Day to day: **TypeScript** and **Fastify** on the backend, **React** on the web, **SwiftUI** and **Jetpack Compose** on mobile, and event-driven **AWS** (SQS + Fargate) when work should only cost money while it runs. Lately I focus on bringing AI into real products with the engineering that makes it dependable — provider fallback, guards against invented output, and tests against real services instead of mocks.
 
