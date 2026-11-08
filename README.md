@@ -27,30 +27,30 @@ Fewer things, done better. Close to the product. Details are the work.
 
 ```text
 languages   TypeScript · JavaScript · Swift · Kotlin · Java · SQL
-backend     Node.js · Fastify · Express · Spring Boot · REST · JWT
+backend     Node.js · Fastify · Express · Spring Boot · REST
 frontend    React · Next.js · Vite · Tailwind CSS · Astro
 mobile      SwiftUI · Jetpack Compose · React Native · Flutter
 data        MongoDB Atlas · PostgreSQL · MySQL · Room
-cloud       AWS (ECS Fargate · SQS · SES · EC2 · S3) · Docker · Vercel
-ai          OpenAI · Gemini — provider fallback, hallucination guards
-practice    Hexagonal architecture · event-driven design · tests against real services
+cloud       AWS · ECS Fargate · SQS · SES · S3 · Docker · Vercel
+ai          OpenAI · Gemini · provider fallback · output guards
+practice    Hexagonal · event-driven · tests on real services
 ```
 
 ---
 
 ### Selected work
 
-**[Plazo](https://www.edgarmatos.dev/work/plazo)** — Android app that warns you before every deadline on any Moodle platform. Live on [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo).
-<br><sub>Kotlin · Jetpack Compose · Room · Ktor · local exact alarms, no server &nbsp;—&nbsp; source is private</sub>
+**[Plazo](https://www.edgarmatos.dev/work/plazo)** — Android app that warns you before every deadline on any Moodle platform. Live on [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo).<br>
+<sub>Kotlin · Jetpack Compose · Room · Ktor · local exact alarms, no server &nbsp;—&nbsp; source is private</sub>
 
-**[Orienta](https://www.edgarmatos.dev/work/orienta)** — AI vocational guidance platform: psychometric tests, recommendations, continuous university scraping.
-<br><sub>TypeScript · Fastify · MongoDB · AWS SQS + Fargate · OpenAI / Gemini · SwiftUI · Kotlin</sub>
+**[Orienta](https://www.edgarmatos.dev/work/orienta)** — AI vocational guidance platform: psychometric tests, recommendations, continuous university scraping.<br>
+<sub>TypeScript · Fastify · MongoDB · AWS SQS + Fargate · OpenAI / Gemini · SwiftUI · Kotlin</sub>
 
-**[Aplyra](https://github.com/matosr96/Aplyra)** — ATS-optimised CV generator with an anti-hallucination guard and a similarity cache. 243 tests against real services.
-<br><sub>Turborepo · Fastify · MongoDB · hexagonal architecture enforced by ESLint</sub>
+**[Aplyra](https://github.com/matosr96/Aplyra)** — ATS-optimised CV generator with an anti-hallucination guard and a similarity cache. 243 tests against real services.<br>
+<sub>Turborepo · Fastify · MongoDB · hexagonal architecture enforced by ESLint</sub>
 
-**[CleanMyOwn](https://github.com/matosr96/CleanMyOwn)** — Native macOS cleaner. Mach syscalls, Authorization Services, 3-step duplicate detection. No Electron, no telemetry. [Download 1.0](https://github.com/matosr96/CleanMyOwn/releases/tag/v1.0)
-<br><sub>Swift 6 · SwiftUI · macOS internals</sub>
+**[CleanMyOwn](https://github.com/matosr96/CleanMyOwn)** — Native macOS cleaner. Mach syscalls, Authorization Services, 3-step duplicate detection. No Electron, no telemetry. [Download 1.0](https://github.com/matosr96/CleanMyOwn/releases/tag/v1.0)<br>
+<sub>Swift 6 · SwiftUI · macOS internals</sub>
 
 Each one is written up as an essay on [my site](https://www.edgarmatos.dev/work): the problem, what I decided, what didn't work.
 
@@ -59,10 +59,10 @@ Each one is written up as an essay on [my site](https://www.edgarmatos.dev/work)
 ### Experience
 
 ```text
-2024 — 2026   Orienta               Full-Stack Developer · sole engineer   remote
-2024 — 2025   Peta Consulting       Full-Stack Developer                   remote, Chile
-2023          Impulsala Marketing   Backend Developer                      freelance
-2021 — 2024   Nevobit S.A.S         Front-end → Full-Stack Developer       remote
+2024 – 2026   Orienta               Full-Stack · sole engineer
+2024 – 2025   Peta Consulting       Full-Stack Developer
+2023          Impulsala Marketing   Backend Developer
+2021 – 2024   Nevobit S.A.S         Front-end → Full-Stack
 ```
 
 <sub>Full history in the <a href="https://www.edgarmatos.dev/cv.pdf">CV</a>.</sub>
