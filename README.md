@@ -15,9 +15,11 @@
 
 ### About
 
-Full-stack developer from the Colombian Caribbean with **4+ years** shipping production software end to end. I cover a product's whole surface: TypeScript APIs, React front ends, native **iOS** (Swift/SwiftUI) and **Android** (Kotlin) apps, and event-driven AWS infrastructure.
+Full-stack developer from the Colombian Caribbean with **4+ years** building production software end to end. I like owning a product's whole surface — the API, the web app, the native **iOS** and **Android** apps and the cloud underneath — so the pieces fit because one mind thought about all of them.
 
-Until October 2026 I was the sole engineer at [Orienta](https://www.edgarmatos.dev/work/orienta) — four codebases, one product: iOS, Android, API and backoffice, maintained in parallel. I'm finishing **Software Engineering** at Universidad de Cartagena (9th semester).
+Day to day: **TypeScript** and **Fastify** on the backend, **React** on the web, **SwiftUI** and **Jetpack Compose** on mobile, and event-driven **AWS** (SQS + Fargate) when work should only cost money while it runs. Lately I focus on bringing AI into real products with the engineering that makes it dependable — provider fallback, guards against invented output, and tests against real services instead of mocks.
+
+I'm finishing **Software Engineering** at Universidad de Cartagena (9th semester).
 
 Fewer things, done better. Close to the product. Details are the work.
 
