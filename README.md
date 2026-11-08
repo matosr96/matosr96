@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/matosr96.png" alt="Edgar Alexander Matos Rivera" width="160">
+  <img src="https://www.edgarmatos.dev/profile.jpg" alt="Edgar Alexander Matos Rivera" width="160" style="border-radius: 50%">
 
   # Edgar Alexander Matos Rivera
 
