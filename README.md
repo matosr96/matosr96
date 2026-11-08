@@ -158,9 +158,9 @@ I study **Software Engineering** at Universidad de Cartagena (9th semester) and 
 
 ---
 
-### [Plazo](https://www.edgarmatos.dev/work/plazo) &nbsp;·&nbsp; *Native Android app for university deadlines — live on Google Play*
+### [Plazo](https://www.edgarmatos.dev/work/plazo) &nbsp;·&nbsp; *Native Android app for Moodle deadlines — live on Google Play*
 
-A Jetpack Compose client for SIMA, Universidad de Cartagena's Moodle: tasks grouped by urgency, grades, a monthly calendar, and local exact alarms before every deadline — no server needed to notify. Keystore-encrypted credentials with silent token renewal, Room for offline-first reads, plus an Astro landing page and an internal admin panel (Fastify + MongoDB + React) that ran the 12-tester × 14-day closed test Google requires before production.
+A Jetpack Compose client for any Moodle platform — it started with SIMA, my university's Moodle: tasks grouped by urgency, grades, a monthly calendar, and local exact alarms before every deadline — no server needed to notify. Keystore-encrypted credentials with silent token renewal, Room for offline-first reads, plus an Astro landing page and an internal admin panel (Fastify + MongoDB + React) that ran the 12-tester × 14-day closed test Google requires before production.
 
 **Stack** &nbsp;·&nbsp; `Kotlin` · `Jetpack Compose` · `Room` · `Ktor` · `Fastify` · `MongoDB` · `React`
 
