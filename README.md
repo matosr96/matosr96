@@ -35,7 +35,7 @@
 
 I'm from the Colombian Caribbean — Córdoba, near Montería. I've been doing software professionally for **4+ years**: I started as a front-end developer at Nevobit S.A.S and grew into full-stack building for very different clients. In 2024 I joined **[Orienta](https://www.edgarmatos.dev/work/orienta)** as a Full-Stack Developer and, in parallel, **Peta Consulting** from Chile on larger-scale projects — that combination taught me to move between the voice of a small team and that of a big one.
 
-Today I work as a product engineer in the literal sense: for the same product I ship the **native iOS app** (Swift/SwiftUI), the **native Android app** (Kotlin), the **API** and the **admin backoffice** — four codebases, one product, maintained in parallel.
+At Orienta I worked as a product engineer in the literal sense: for the same product I shipped the **native iOS app** (Swift/SwiftUI), the **native Android app** (Kotlin), the **API** and the **admin backoffice** — four codebases, one product, maintained in parallel, until October 2026.
 
 Most of what I've built over the last two years is private client work. What you see below is the part I own outright: an Android app live on Google Play, an AI CV engine and a native macOS cleaner.
 
@@ -97,11 +97,11 @@ I study **Software Engineering** at Universidad de Cartagena (9th semester) and 
 ## Experience
 
 ### Orienta — AI Vocational Guidance Platform
-**Full-Stack Developer** · *Nov 2024 – Present · Bogotá, D.C. (Remote)*
+**Full-Stack Developer** · *Nov 2024 – Oct 2026 · Bogotá, D.C. (Remote)*
 
 - Designed and delivered Orienta end-to-end — an AI-powered platform helping students choose a career path.
 - Built the MVP across backend, frontend and event-driven AWS infrastructure that only spends compute on demand.
-- Built and maintain the product's native iOS app (Swift/SwiftUI) and native Android app (Kotlin) alongside its API and backoffice.
+- Built and maintained the product's native iOS app (Swift/SwiftUI) and native Android app (Kotlin) alongside its API and backoffice.
 - Implemented psychometric assessments and a recommendation engine for university and programme matching.
 - Automated ingestion of university and programme data through web scraping.
 
@@ -147,7 +147,7 @@ I study **Software Engineering** at Universidad de Cartagena (9th semester) and 
 
 **The problem.** Thousands of students in Latin America choose a career without clear information — shifting programmes, opaque requirements and costs, and no systematic method to understand their own aptitudes.
 
-**The solution.** Orienta combines digital psychometric tests, an AI-powered recommendation engine, and continuous scraping of universities to deliver personalised academic paths. I designed and maintain the full architecture: backend, frontend and infrastructure.
+**The solution.** Orienta combines digital psychometric tests, an AI-powered recommendation engine, and continuous scraping of universities to deliver personalised academic paths. I designed and maintained the full architecture — backend, frontend and infrastructure — from November 2024 to October 2026.
 
 - Psychometric tests with instant results
 - AI-driven career and university recommendations
