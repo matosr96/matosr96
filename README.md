@@ -33,11 +33,11 @@
 
 ## About
 
-I'm from the Colombian Caribbean — Córdoba, near Montería. I've been doing software professionally for **4+ years**: I started as a front-end developer at Real Vision Enterprise and grew into full-stack building for very different clients. In 2024 I joined **[Orienta](https://www.edgarmatos.dev/work/orienta)** as a Full-Stack Developer and, in parallel, **Peta Consulting** from Chile on larger-scale projects — that combination taught me to move between the voice of a small team and that of a big one.
+I'm from the Colombian Caribbean — Córdoba, near Montería. I've been doing software professionally for **4+ years**: I started as a front-end developer at Nevobit S.A.S and grew into full-stack building for very different clients. In 2024 I joined **[Orienta](https://www.edgarmatos.dev/work/orienta)** as a Full-Stack Developer and, in parallel, **Peta Consulting** from Chile on larger-scale projects — that combination taught me to move between the voice of a small team and that of a big one.
 
 Today I work as a product engineer in the literal sense: for the same product I ship the **native iOS app** (Swift/SwiftUI), the **native Android app** (Kotlin), the **API** and the **admin backoffice** — four codebases, one product, maintained in parallel.
 
-Most of what I've built over the last two years is private client work. What you see pinned below is the part I own outright: an AI CV engine, a native macOS cleaner, and a macOS archive extractor.
+Most of what I've built over the last two years is private client work. What you see below is the part I own outright: an Android app live on Google Play, an AI CV engine and a native macOS cleaner.
 
 I study **Software Engineering** at Universidad de Cartagena (9th semester) and belong to its Software Engineering Research Group.
 
@@ -64,7 +64,7 @@ I study **Software Engineering** at Universidad de Cartagena (9th semester) and 
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,java,swift" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,java,swift,kotlin" alt="Languages" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
@@ -80,7 +80,7 @@ I study **Software Engineering** at Universidad de Cartagena (9th semester) and 
   </tr>
   <tr>
     <td><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=swift,flutter,react" alt="Mobile stack" /> <sub>· SwiftUI · React Native</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=swift,kotlin,androidstudio,flutter,react" alt="Mobile stack" /> <sub>· SwiftUI · Jetpack Compose · React Native</sub></td>
   </tr>
   <tr>
     <td><b>Cloud &amp; AI</b></td>
@@ -101,6 +101,7 @@ I study **Software Engineering** at Universidad de Cartagena (9th semester) and 
 
 - Designed and delivered Orienta end-to-end — an AI-powered platform helping students choose a career path.
 - Built the MVP across backend, frontend and event-driven AWS infrastructure that only spends compute on demand.
+- Built and maintain the product's native iOS app (Swift/SwiftUI) and native Android app (Kotlin) alongside its API and backoffice.
 - Implemented psychometric assessments and a recommendation engine for university and programme matching.
 - Automated ingestion of university and programme data through web scraping.
 
@@ -115,8 +116,8 @@ I study **Software Engineering** at Universidad de Cartagena (9th semester) and 
 - Built backend services with Node.js, Spring Boot, MongoDB and MySQL.
 - Delivered integrations powering internal marketing automation workflows.
 
-### Real Vision Enterprise
-**Full-Stack Developer** · *Dec 2021 – Aug 2024 · Medellín, Colombia (Remote)*
+### Nevobit S.A.S
+**Full-Stack Developer** · *Dec 2021 – Oct 2024 · Medellín, Colombia (Remote)*
 
 - Promoted from Front-end to Full-Stack Developer based on consistent delivery.
 - Designed and shipped cross-platform mobile applications.
@@ -157,6 +158,16 @@ I study **Software Engineering** at Universidad de Cartagena (9th semester) and 
 
 ---
 
+### [Plazo](https://www.edgarmatos.dev/work/plazo) &nbsp;·&nbsp; *Native Android app for university deadlines — live on Google Play*
+
+A Jetpack Compose client for SIMA, Universidad de Cartagena's Moodle: tasks grouped by urgency, grades, a monthly calendar, and local exact alarms before every deadline — no server needed to notify. Keystore-encrypted credentials with silent token renewal, Room for offline-first reads, plus an Astro landing page and an internal admin panel (Fastify + MongoDB + React) that ran the 12-tester × 14-day closed test Google requires before production.
+
+**Stack** &nbsp;·&nbsp; `Kotlin` · `Jetpack Compose` · `Room` · `Ktor` · `Fastify` · `MongoDB` · `React`
+
+[Case study](https://www.edgarmatos.dev/work/plazo) &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo) <sub>(Android 8.0+ · source is private)</sub>
+
+---
+
 ### [Aplyra](https://www.edgarmatos.dev/work/aplyra) &nbsp;·&nbsp; *ATS-optimised CV generator and analyser, powered by AI*
 
 TypeScript monorepo with strict hexagonal architecture (ESLint-enforced), two swappable AI providers (OpenAI / Gemini) behind 4 ports, an anti-hallucination guard that rejects CVs with invented facts (HTTP 422), and a Jaccard + SHA-256 similarity cache that avoids re-prompting the model. **243 tests** across unit, integration (real Mongo, real Puppeteer) and e2e.
@@ -191,7 +202,7 @@ I'm open to **remote opportunities, freelance engagements and collaborations** o
 
 Each project above is written up as an essay on my site: what the problem was, what I decided, what didn't work.
 
-- **Portfolio** — [edgarmatos.dev](https://www.edgarmatos.dev/)
+- **Portfolio** — [edgarmatos.dev](https://www.edgarmatos.dev/) · [CV (PDF)](https://www.edgarmatos.dev/cv.pdf)
 - **Email** — [19matos96@gmail.com](mailto:19matos96@gmail.com)
 - **LinkedIn** — [linkedin.com/in/matosr96](https://www.linkedin.com/in/matosr96/)
 - **GitHub** — [github.com/matosr96](https://github.com/matosr96)
