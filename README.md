@@ -15,9 +15,9 @@
 
 ### About
 
-Full-stack developer with **4+ years** building production software end to end. I like owning a product's whole surface — the API, the web app, the native **iOS** and **Android** apps and the cloud underneath — so the pieces fit because one mind thought about all of them.
+Full-stack developer with **4+ years** shipping software to production end to end. I like owning a product's whole surface — the API, the web app, the native **iOS** and **Android** apps and the cloud underneath — so the pieces fit because one mind thought about all of them.
 
-Day to day: **TypeScript** and **Fastify** on the backend, **React** on the web, **SwiftUI** and **Jetpack Compose** on mobile, and event-driven **AWS** (SQS + Fargate) when work should only cost money while it runs. Lately I focus on bringing AI into real products with the engineering that makes it dependable — provider fallback, guards against invented output, and tests against real services instead of mocks.
+Day to day: **TypeScript** and **Fastify** on the backend with **PostgreSQL**, **React** on the web, **SwiftUI** and **Jetpack Compose** on mobile, and **AWS** underneath. Lately I focus on bringing AI into real products with what it takes to run them — cost control, per-customer limits and failure monitoring. I work agent-first with **Claude Code**.
 
 I'm finishing **Software Engineering** at Universidad de Cartagena (9th semester).
 
@@ -28,42 +28,40 @@ Fewer things, done better. Close to the product. Details are the work.
 ### Stack
 
 ```text
-languages   TypeScript · JavaScript · Swift · Kotlin · Java · SQL
-backend     Node.js · Fastify · Express · Spring Boot · REST
-frontend    React · Next.js · Vite · Tailwind CSS · Astro
-mobile      SwiftUI · Jetpack Compose · React Native · Flutter
-data        MongoDB Atlas · PostgreSQL · MySQL · Room
-cloud       AWS · ECS Fargate · SQS · SES · S3 · Docker · Vercel
-ai          OpenAI · Gemini · provider fallback · output guards
-practice    Hexagonal · event-driven · tests on real services
+languages   TypeScript · JavaScript · Swift · Kotlin · SQL
+backend     Node.js · Fastify · Express · REST · JWT
+frontend    React · React Router · Redux · Next.js · Vite · CSS Modules · Tailwind CSS
+mobile      SwiftUI · Jetpack Compose · React Native
+data        PostgreSQL · MongoDB
+cloud       AWS (EC2 · RDS · SES) · Vercel · GitHub Actions
+ai          Gemini on Vertex AI · OpenAI · Claude Code
 ```
 
 ---
 
 ### Selected work
 
-**[Plazo](https://www.edgarmatos.dev/work/plazo)** — Android app that warns you before every deadline on any Moodle platform. Live on [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo).<br>
-<sub>Kotlin · Jetpack Compose · Room · Ktor · local exact alarms, no server &nbsp;—&nbsp; source is private</sub>
+**[Orienta](https://www.edgarmatos.dev/work/orienta)** — AI student-retention platform for universities. Sole developer: API, backoffice, operations console and four native apps, live on the [App Store](https://apps.apple.com/us/app/orienta-leo-ia/id6762029412) and [Google Play](https://play.google.com/store/apps/details?id=com.orienta.leoapp).<br>
+<sub>TypeScript · Fastify · PostgreSQL · AWS · Gemini · SwiftUI · Jetpack Compose</sub>
 
-**[Orienta](https://www.edgarmatos.dev/work/orienta)** — AI vocational guidance platform: psychometric tests, recommendations, continuous university scraping.<br>
-<sub>TypeScript · Fastify · MongoDB · AWS SQS + Fargate · OpenAI / Gemini · SwiftUI · Kotlin</sub>
+**[Plazo](https://www.edgarmatos.dev/work/plazo)** — Android app that warns you before every assignment deadline on Moodle. Live on [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo).<br>
+<sub>Kotlin · Jetpack Compose · offline data · local alarms, no server &nbsp;—&nbsp; source is private</sub>
 
-**[Aplyra](https://github.com/matosr96/Aplyra)** — ATS-optimised CV generator with an anti-hallucination guard and a similarity cache. 243 tests against real services.<br>
-<sub>Turborepo · Fastify · MongoDB · hexagonal architecture enforced by ESLint</sub>
+**[Aplyra](https://github.com/matosr96/Aplyra)** — ATS-optimised CV generator that works with OpenAI or Gemini and rejects any CV adding facts missing from the original.<br>
+<sub>TypeScript · Fastify · MongoDB</sub>
 
-**[CleanMyOwn](https://github.com/matosr96/CleanMyOwn)** — Native macOS cleaner. Mach syscalls, Authorization Services, 3-step duplicate detection. No Electron, no telemetry. [Download 1.0](https://github.com/matosr96/CleanMyOwn/releases/tag/v1.0)<br>
-<sub>Swift 6 · SwiftUI · macOS internals</sub>
+**[CleanMyOwn](https://github.com/matosr96/CleanMyOwn)** — Native macOS cleaner: memory and CPU monitoring, duplicate detection, no Electron, no telemetry. [Download 1.0](https://github.com/matosr96/CleanMyOwn/releases/tag/v1.0)<br>
+<sub>Swift · SwiftUI · macOS</sub>
 
-Each one is written up as an essay on [my site](https://www.edgarmatos.dev/work): the problem, what I decided, what didn't work.
+Each one is written up on [my site](https://www.edgarmatos.dev/work): the problem, what I decided, what I learned.
 
 ---
 
 ### Experience
 
 ```text
-2024 – 2026   Orienta               Full-Stack · sole engineer
+2024 – now    Orienta               Full-Stack · sole developer
 2024 – 2025   Peta Consulting       Full-Stack Developer
-2023          Impulsala Marketing   Backend Developer
 2021 – 2024   Nevobit S.A.S         Front-end → Full-Stack
 ```
 
