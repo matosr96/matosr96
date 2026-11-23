@@ -44,7 +44,7 @@ ai          Gemini on Vertex AI · OpenAI · Claude Code
 **[Orienta](https://www.edgarmatos.dev/work/orienta)** — AI student-retention platform for universities. Sole developer: API, backoffice, operations console and four native apps, live on the [App Store](https://apps.apple.com/us/app/orienta-leo-ia/id6762029412) and [Google Play](https://play.google.com/store/apps/details?id=com.orienta.leoapp).<br>
 <sub>TypeScript · Fastify · PostgreSQL · AWS · Gemini · SwiftUI · Jetpack Compose</sub>
 
-**[Plazo](https://www.edgarmatos.dev/work/plazo)** — Android app that warns you before every assignment deadline on Moodle. Live on [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo).<br>
+**[Plazo](https://www.edgarmatos.dev/work/plazo)** — Android app that warns Universidad de Cartagena students before every assignment deadline on SIMA, the university's Moodle. Live on [Google Play](https://play.google.com/store/apps/details?id=dev.matos.plazo).<br>
 <sub>Kotlin · Jetpack Compose · offline data · local alarms, no server &nbsp;—&nbsp; source is private</sub>
 
 **[Aplyra](https://github.com/matosr96/Aplyra)** — ATS-optimised CV generator that works with OpenAI or Gemini and rejects any CV adding facts missing from the original.<br>
